@@ -6,3 +6,13 @@
 
 *.log
 *.
+Week-3/dialogue-summary-training-1690815256/runs/Jul31_10-54-16_Mimi-pc/events.out.tfevents.1690815269.Mimi-pc.2740.0
+Week-3/dialogue-summary-training-1690815489/runs/Jul31_10-58-09_Mimi-pc/events.out.tfevents.1690815489.Mimi-pc.2740.2
+Week-3/peft-dialogue-summary-checkpoint-local/merges.txt
+Week-3/wandb/run-20230731_103354-bjducb97/files/config.yaml
+Week-3/wandb/run-20230731_105430-9bguxkr9/run-9bguxkr9.wandb
+Week-3/wandb/run-20230731_105430-9bguxkr9/files/conda-environment.yaml
+Week-3/wandb/run-20230731_105430-9bguxkr9/files/config.yaml
+Week-3/peft-dialogue-summary-training-1690815314/runs/Jul31_10-55-14_Mimi-pc/events.out.tfevents.1690815331.Mimi-pc.2740.1
+Week-3/peft-dialogue-summary-training-1690815500/runs/Jul31_10-58-20_Mimi-pc/events.out.tfevents.1690815500.Mimi-pc.2740.3
+Week-3/wandb/latest-run
